@@ -1,2 +1,5 @@
 # nuclei-priv-templates
-nuclei custom templates
+```bash
+nuclei -u http://example.com -t nuclei-priv-templates
+```
+
